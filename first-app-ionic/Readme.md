@@ -13,3 +13,8 @@ ionic serve
 ```
 npm i -D -E @ionic/lab
 ```
+
+# Restore last changes after do commit and before do git push
+```
+git checkout -- .
+```
